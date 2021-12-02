@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5pt"
+    tools:context=".MainActivity">
+
+     <EditText
+            android:id="@+id/etName"
+            android:layout_width="match_parent"
+         android:layout_height="30pt"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="" />
+        <Button
+            android:id="@+id/btnName"
+            android:layout_width="match_parent"
+            android:layout_height="30pt"
+            android:text="OK" />
+
+        <EditText
+            android:id="@+id/etMessage"
+            android:layout_width="match_parent"
+            android:layout_height="30pt"
+
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="" />
+
+
+
+
+
+
+    <Button
+        android:id="@+id/btnMessage"
+        android:layout_width="match_parent"
+        android:layout_height="30pt"
+        android:text="OK" />
+
+    <ListView
+        android:id="@+id/lvChat"
+        android:layout_width="match_parent"
+        android:layout_height="200pt"
+         />
+
+
+</LinearLayout>

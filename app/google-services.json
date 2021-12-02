@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154593076630",
+    "project_id": "amazigh2021-c321a",
+    "storage_bucket": "amazigh2021-c321a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154593076630:android:39ab935ff1705168a129b7",
+        "android_client_info": {
+          "package_name": "nl.brockict.amazigh2021"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154593076630-7lki9dq5lu1btbgas6ub1vin65f7pnuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpDGKeKLAuPKYws8200yKMDXiLv93pYEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154593076630-7lki9dq5lu1btbgas6ub1vin65f7pnuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
